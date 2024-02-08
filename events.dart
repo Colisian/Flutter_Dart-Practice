@@ -1,5 +1,7 @@
 //Events
 
+import 'dart:async';
+
 enum ChatGPTEvent {
   sendUserInput,
 }

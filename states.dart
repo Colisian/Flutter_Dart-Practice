@@ -1,4 +1,8 @@
 //States
+import 'dart:async';
+
+import 'events.dart';
+
 class ChatGPTState {
   final String response;
 
