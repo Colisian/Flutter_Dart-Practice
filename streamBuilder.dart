@@ -32,6 +32,12 @@ class ChatScreen extends StatelessWidget {
   //usually used to indicate that the app is busy or waiting for something. It doesn't take any type arguments.
 }
 
+class StatelessWidget {
+}
+
+class Widget {
+}
+
 class BuildContext {
 }
 
